@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+aiohttp
+pillow
+python-dotenv
+pytest
+openai-whisper
+requests
